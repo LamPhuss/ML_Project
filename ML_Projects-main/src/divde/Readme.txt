@@ -1,1 +1,0 @@
-Dùng file handle vào file csv gốc để lấy cleaned data nhé mấy ông cháu
